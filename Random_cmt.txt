@@ -1,0 +1,27 @@
+
+    <!--<section class="my-gears" id="gears">
+        <h2 class="sec__title sec__title--mygears">Gears I use</h2>
+        <div class="my-gears">
+            <div class="gear">
+                <h3>Xiaomi Redmi K20 Pro</h3>
+                <p>With an overall DXOMARK Camera score of 102,
+                    the Xiaomi Redmi K20 Pro does not make it into the top ten of DXOMARK Smartphone ranking,
+                    but achieves a respectable score for a device in its price bracket.
+                    The Photo score of 108 is based on a solid performance across all test categories,
+                    without any glaring weaknesses. In general, the camera is capable of producing images with
+                    good exposure and a good texture/noise balance in most situations. However, limited dynamic range
+                    and visible color casts in some conditions slightly negate the overall positive picture.</p>
+            </div>
+            <div class="gear">
+                <h3>Adcom AD-25MM Professional HD 10x Macro Mobile Phone Camera Lens</h3>
+                <p>designed for extreme close-ups, perfectly showing the details and beauty of the object.
+                    It gets you 10 times closer to your subject. It also comes with a lens hood to ensure you have the
+                    correct
+                    focusing distance for every shot, and acts as a diffuser to soften the light so you get more even
+                    lighting on your subject.
+                    It will be the best choice for your travel! It can be used to shoot insects, food, plants, jewelry,
+                    etc.</p>
+            </div>
+        </div>
+        
+    </section>-->
